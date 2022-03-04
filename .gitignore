@@ -1,0 +1,12 @@
+# pycharm configs
+.idea/
+
+# virtual environment
+.venv/
+
+# compiled files
+*.pyc
+__pycache__/
+
+# Unfinished file
+/sounds.py
